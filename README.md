@@ -1,1 +1,1 @@
-# Matplotlib-Lab2
+# Matplotlib-Lab2 Solution
